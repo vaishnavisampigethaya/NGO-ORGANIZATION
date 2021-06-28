@@ -4,7 +4,7 @@
  To see demo click the link  https://vaishnavisampigethaya.github.io/NGO-ORGANIZATION/
  
  
- # Why next page is not displaying?
+ # Why all page is not displaying?
   Since its connected to a backend all the pages are in php format. This is not connected to backend.So you cannot see the all the pages.
   
   # What is this project ?
